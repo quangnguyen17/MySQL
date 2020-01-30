@@ -1,3 +1,3 @@
-# MySQL .folder
+# MySQL
 
-. contains MySQL files, ERDs
+ERDs
